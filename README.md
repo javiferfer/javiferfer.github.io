@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️
 
-Link: https://javiferfer.github.io
+Link: https://javiferfer.github.io/portfolio/
 
 ### Website Preview
 <p align="center"> 
