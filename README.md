@@ -21,3 +21,6 @@ To view a live example, **[click here](https://javiferfer.github.io/)**
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+
+## Thanks
+Thanks to [varadbhogayata](https://github.com/varadbhogayata), who has made his [portfolio](https://github.com/varadbhogayata/varadbhogayata.github.io) publicly available.
